@@ -1,7 +1,11 @@
 {
-    "name": "Workspace workflow",
-    "description": "Bullwinkle Organization Workspace CI workflow template.",
-    "iconName": "gh-icon",
-    "categories": [],
-    "filePatterns": []
+    "name": "Workspace CI workflow",
+    "description": "Bullwinkle's Organization Workspace CI workflow template.",
+    "iconName": "ci-icon",
+    "categories": [
+        "Typescript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
 }
