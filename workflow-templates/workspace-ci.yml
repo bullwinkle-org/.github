@@ -1,8 +1,8 @@
-name: Bullwinkle Organization Workspace CI
-
+name: Workspace CI
 on:
   push:
     branches: [ $default-branch ]
+
   pull_request:
     branches: [ $default-branch ]
 
