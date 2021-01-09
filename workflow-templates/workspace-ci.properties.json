@@ -2,10 +2,6 @@
     "name": "Workspace CI workflow",
     "description": "Bullwinkle's Organization Workspace CI workflow template.",
     "iconName": "ci-icon",
-    "categories": [
-        "Typescript"
-    ],
-    "filePatterns": [
-        "package.json$"
-    ]
+    "categories": [],
+    "filePatterns": []
 }
